@@ -1,1 +1,2 @@
-# BasicProgrammimg_JS
+# Basic_JS_Programming
+
